@@ -8,7 +8,8 @@
     "authors": [
         {
             "name": "Alejandro Zorita Hernández",
-            "email": "alzort@gmail.com"
+            "email": "alzort@gmail.com",
+            "homepage": "alejandrozorita.me"
         }
     ],
     "require": {

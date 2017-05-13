@@ -3,6 +3,7 @@
     "description": "Importador de entradas CMS.",
     "keywords": ["alejandrozorita", "importador", "cms"],
     "license": "APACHE",
+    "type": "library",
     "version": "1.0.0",
     "authors": [
         {
